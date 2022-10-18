@@ -1,0 +1,20 @@
+{
+    "name": "fps.Editor",
+    "references": [
+        "GUID:9c5543eabb73a6249ac07b2c065ee8b4",
+        "GUID:27b7e9efd224f064990a97ed99e4456f",
+        "GUID:e9dc24b3d0971d64a9e95b6986d97af5",
+        "GUID:269903ea973e2a64ca0fb91ee07d3625"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
