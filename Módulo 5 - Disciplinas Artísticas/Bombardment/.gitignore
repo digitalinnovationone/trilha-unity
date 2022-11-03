@@ -1,3 +1,11 @@
+# CUSTOM
+#
+# Unity WebGL Builds
+/WebGL Builds/
+connectwebgl.zip
+webgl_sharing
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/unity,rider,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=unity,rider,visualstudiocode
 
