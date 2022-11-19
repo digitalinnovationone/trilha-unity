@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FxTemporaire
+  - BossRoomSensor
   layers:
   - Default
   - TransparentFX
@@ -14,17 +16,17 @@ TagManager:
   - Ground
   - Target
   - Projectile
+  - Creatures
+  - Player
+  - 
+  - WorldUI
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - NavCutoff
+  - CameraCollider
   - 
   - 
   - 

@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.unity.2d.animation": "5.0.10",
+    "com.unity.2d.pixel-perfect": "4.0.1",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.2d.spriteshape": "5.1.7",
     "com.unity.cinemachine": "2.8.9",
     "com.unity.collab-proxy": "1.15.15",
     "com.unity.ide.rider": "3.0.16",
@@ -9,6 +13,7 @@
     "com.unity.test-framework": "1.1.31",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.6.4",
+    "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.2",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.7.6",
     "com.unity.modules.ai": "1.0.0",

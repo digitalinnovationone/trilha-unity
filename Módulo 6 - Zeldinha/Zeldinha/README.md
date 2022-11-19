@@ -19,7 +19,11 @@ O pack acima contem os seguintes asssets. Se preferir instalar os assets individ
 - [**Mini Legion Lich PBR HP Polyart** _by Dungeon Mason_](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-lich-pbr-hp-polyart-91497)
 - [**Mini Legion Grunt PBR HP Polyart** _by Dungeon Mason_](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-legion-grunt-pbr-hp-polyart-98187)
 - [**3D Dungeon Lowpoly Pack** _by CatBorg Studio_](https://assetstore.unity.com/packages/3d/props/furniture/3d-dungeon-lowpoly-pack-231265)
-- [**Particle Pack** _by Kenney_](https://opengameart.org/content/particle-pack-80-sprites)
+- [**Polygonal's Low-Poly Particle Pack** _by Polygonal Stuff_](https://assetstore.unity.com/packages/vfx/particles/polygonal-s-low-poly-particle-pack-118355)
+- [**RPG Essentials Sound Effects** _by leohpaz_](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)
+- [**Hit VFX Mega Pack** _by Just Labbing_](https://assetstore.unity.com/packages/vfx/particles/hit-vfx-mega-pack-224741)
+- [**Sprite
+- Packs** _by Kenney_](https://www.kenney.nl/)
 - Músicas por Kevin MacLeod: [incompetech.com](https://www.incompetech.com)
 - Efeitos sonoros com licença pública obtidos em [freesound.org](https://freesound.org)
 <!-- - [**Name** _by Author_](Link) -->

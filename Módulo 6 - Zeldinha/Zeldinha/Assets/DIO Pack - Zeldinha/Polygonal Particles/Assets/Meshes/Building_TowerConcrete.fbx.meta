@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: af043257944da7f4cba7a0cbaf741bbc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: poi_Tower02Collider
+    100004: poi_Tower02Mesh
+    100006: poi_Tower02MeshCollider
+    100008: poi_Tower02Stairs01
+    100010: poi_Tower02Stairs01Collider
+    100012: poi_Tower02Stairs02
+    100014: poi_Tower02Stairs02Collider
+    100016: poi_Tower02Stairs03
+    100018: poi_Tower02Stairs03Collider
+    400000: //RootNode
+    400002: poi_Tower02Collider
+    400004: poi_Tower02Mesh
+    400006: poi_Tower02MeshCollider
+    400008: poi_Tower02Stairs01
+    400010: poi_Tower02Stairs01Collider
+    400012: poi_Tower02Stairs02
+    400014: poi_Tower02Stairs02Collider
+    400016: poi_Tower02Stairs03
+    400018: poi_Tower02Stairs03Collider
+    2100000: poi_TowerStone01
+    2100002: poi_TowerSteel03
+    2100004: poi_TowerConcrete01
+    2100006: poi_TowerSteel01
+    2100008: poi_TowerSteel02
+    2100010: No Name
+    2300000: //RootNode
+    2300002: poi_Tower02Collider
+    2300004: poi_Tower02Mesh
+    2300006: poi_Tower02MeshCollider
+    2300008: poi_Tower02Stairs01
+    2300010: poi_Tower02Stairs01Collider
+    2300012: poi_Tower02Stairs02
+    2300014: poi_Tower02Stairs02Collider
+    2300016: poi_Tower02Stairs03
+    2300018: poi_Tower02Stairs03Collider
+    3300000: //RootNode
+    3300002: poi_Tower02Collider
+    3300004: poi_Tower02Mesh
+    3300006: poi_Tower02MeshCollider
+    3300008: poi_Tower02Stairs01
+    3300010: poi_Tower02Stairs01Collider
+    3300012: poi_Tower02Stairs02
+    3300014: poi_Tower02Stairs02Collider
+    3300016: poi_Tower02Stairs03
+    3300018: poi_Tower02Stairs03Collider
+    4300000: poi_Tower02
+    4300002: poi_Tower02Collider
+    4300004: poi_Tower02Mesh
+    4300006: poi_Tower02MeshCollider
+    4300008: poi_Tower02Stairs03
+    4300010: poi_Tower02Stairs03Collider
+    4300012: poi_Tower02Stairs02
+    4300014: poi_Tower02Stairs02Collider
+    4300016: poi_Tower02Stairs01
+    4300018: poi_Tower02Stairs01Collider
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
