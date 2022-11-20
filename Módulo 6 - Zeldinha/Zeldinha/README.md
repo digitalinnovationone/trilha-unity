@@ -1,8 +1,10 @@
+<a href="https://rafaskb.itch.io/violets-awakening"><img src=".media/ZeldinhaBanner.png" /></a>
+
 # Game
 
 Dungeon Crawler em Unity inspirado nos jogos _Zelda: Link's Awakening (2019)_ e _Tunic (2022)_ para fins educacionais.
 
-<img src=".media/ZeldinhaTitle.png" />
+**Jogue agora em** https://rafaskb.itch.io/violets-awakening
 
 # Assets
 

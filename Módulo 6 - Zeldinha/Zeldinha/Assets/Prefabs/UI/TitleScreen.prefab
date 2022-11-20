@@ -139,7 +139,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   thisAnimator: {fileID: 1964361853614473693}
-  fadeOutDuration: 3
+  fadeOutDuration: 3.5
 --- !u!1 &3143563683754707989
 GameObject:
   m_ObjectHideFlags: 0
